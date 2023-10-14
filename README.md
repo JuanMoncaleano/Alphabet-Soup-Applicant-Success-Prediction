@@ -1,6 +1,6 @@
 ## Deep Learning Project Overview
 
-Module 21 Challenge - Neural Network Modeling
+Neural Network Modeling
 
 ## Background and Objective
 
